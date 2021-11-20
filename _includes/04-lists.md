@@ -9,13 +9,3 @@ Replace this with a list of your favorite things.
 2. item 2
   i. item 2a
   ii. item 2b
-  
-  * alpha
-  * beta
-    *gamma
-    *delta
-    
-   -epsilon
-   -ita
-    -thita
-    -gama
